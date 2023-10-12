@@ -1,0 +1,4 @@
+env/
+vue_backend/*.pyc
+vue_backend/*/*.pyc
+vue_backend/*/*/*.pyc
